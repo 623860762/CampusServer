@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><RmiInfo>	<rmi className = "rmi.dataSource.Campus">		<name>Campus</name>		<ip>127.0.0.1</ip>		<port>1099</port>		<url>http://data.i.t.sina.com.cn/schooluser/getschooluser.php?</url>		<wbOpenApi>10.210.208.41,1099,WeibotOpenApi</wbOpenApi>	</rmi>	</RmiInfo>

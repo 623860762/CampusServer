@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Jun 21 14:16:31 CST 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=CampusServer_v1.0.4.jar
+manifest.mergeall=true
+manifest.mainclass=rmi.dataSource.RunServer
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
